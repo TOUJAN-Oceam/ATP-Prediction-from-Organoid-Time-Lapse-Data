@@ -1,0 +1,19 @@
+[project]
+name = ""
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scikit-learn",
+    "torch",
+    "optuna",
+    "torchvision>=0.25.0",
+]
+
+
+[tool.uv]
+package = false
