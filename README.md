@@ -1,3 +1,5 @@
+[généré par gémini]
+
 # 🔬 Prédiction d'ATP par Deep Learning sur Organoïdes Dérivés de Patients
 
 Ce projet s'inscrit dans le cadre du défi "AI in Oncology". L'objectif est de développer un modèle de Deep Learning capable de prédire la quantité d'ATP (une mesure de la production d'énergie cellulaire) à partir de vidéos time-lapse d'organoïdes sur 96 heures. Cette prédiction permet d'évaluer la réponse aux médicaments et d'accompagner le développement de thérapies personnalisées en oncologie.
